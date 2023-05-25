@@ -1,0 +1,6 @@
+npm init -y
+npm install
+npm i nodemon("start":"nodemon app.js) --->npm start
+
+mongodb+srv://admin:<password>@cluster0.vreobsq.mongodb.net/
+Q69YAYljx9jcGXPJ
